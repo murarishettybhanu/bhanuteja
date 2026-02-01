@@ -29,9 +29,8 @@ const Contact = () => {
                                 rel="noopener noreferrer"
                                 className="text-foreground/60 hover:text-primary transition-colors flex flex-col items-center gap-2 group"
                             >
-                                <div className="p-4 bg-muted/50 rounded-full border border-border group-hover:border-transparent group-hover:bg-gradient-to-br group-hover:from-cyan-400 group-hover:via-blue-500 group-hover:to-purple-600 transition-all relative overflow-hidden">
-                                    <div className="absolute inset-0 bg-muted/50 rounded-full z-0 group-hover:opacity-0 transition-opacity" />
-                                    <social.icon size={24} className="relative z-10" />
+                                <div className="p-4 bg-muted/50 rounded-full border border-border group-hover:border-primary/50 transition-colors">
+                                    <social.icon size={24} />
                                 </div>
                                 <span className="text-sm font-medium relative">
                                     {social.name}
