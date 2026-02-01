@@ -6,7 +6,7 @@ export const resumeData = {
         role: "Senior Software Engineer",
         tagline: "Result-oriented engineer designing scalable, high-performance full-stack solutions.",
         about: "Result-oriented Senior Software Engineer with more than 5 years of experience in designing and implementing scalable, high-performance software solutions. Specialized in full-stack development using the MERN stack, with strong proficiency in Node.js for backend development and React Native for building cross-platform mobile applications. Proven ability to lead technical teams, streamline workflows, and deliver impactful products in dynamic, fast-paced environments.",
-        avatar: "/bhanu.jpeg",
+        avatar: "./bhanu.jpeg",
         contact: {
             email: "murarishettybhanuteja@gmail.com",
             phone: "+91 96039 69833",
