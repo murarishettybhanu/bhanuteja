@@ -66,7 +66,7 @@ const Projects = () => {
                             {/* Terminal Body */}
                             <div className="p-6 md:p-8 relative">
                                 {/* Glow Effect */}
-                                <div className="absolute top-0 right-0 w-32 h-32 bg-primary/10 rounded-full blur-3xl -z-10 group-hover:bg-primary/20 transition-all duration-500" />
+                                <div className="absolute top-0 right-0 w-40 h-40 bg-gradient-to-bl from-cyan-400 via-blue-500 to-transparent rounded-full blur-3xl -z-10 opacity-0 group-hover:opacity-60 transition-opacity duration-500" />
 
                                 <div className="mb-6 space-y-2">
                                     <div className="flex items-center gap-2 text-primary text-sm font-bold tracking-wide">
