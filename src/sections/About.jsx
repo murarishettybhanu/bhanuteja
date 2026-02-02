@@ -32,7 +32,7 @@ const About = () => {
                                 <img
                                     src={profile.avatar}
                                     alt={profile.name}
-                                    className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500 ease-in-out scale-100 group-hover:scale-110"
+                                    className="w-full h-full object-cover transition-all duration-500 ease-in-out scale-100 group-hover:scale-110"
                                 />
                             </div>
                         </div>

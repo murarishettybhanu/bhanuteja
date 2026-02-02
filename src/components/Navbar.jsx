@@ -40,7 +40,7 @@ const Navbar = () => {
                         <a href="#" className="flex items-center gap-2 group">
                             <Logo className="w-10 h-10 text-primary transition-transform group-hover:scale-110" />
                             <span className="text-xl font-bold font-mono tracking-tighter">
-                                BHANU<span className="text-primary">.DEV</span>
+                                BHANUTEJA<span className="text-primary">.DEV</span>
                             </span>
                         </a>
                     </div>

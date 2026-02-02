@@ -63,6 +63,18 @@
   button {
     cursor: none;
   }
+
+  /* Restore default cursor on mobile devices */
+  @media (max-width: 767px) {
+    body {
+      cursor: auto;
+    }
+
+    a,
+    button {
+      cursor: pointer;
+    }
+  }
 }
 
 @layer utilities {
