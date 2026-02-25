@@ -21,6 +21,18 @@ export const resumeData = {
     },
     experience: [
         {
+            company: "HTC Global Services",
+            role: "Lead Engineer",
+            period: "May 2025 - Present",
+            description: "Building scalable backend services for AmFam (American Family Insurance), a leading U.S. insurance company, as part of HTC Global Services' enterprise delivery.",
+            achievements: [
+                "Developing and maintaining robust backend microservices using NestJS and Node.js for American Family Insurance (AmFam), supporting critical insurance domain workflows.",
+                "Designing and implementing RESTful APIs to handle insurance data processing, policy management, and business logic within a large-scale enterprise environment.",
+                "Collaborating with cross-functional teams across global delivery centers to deliver high-quality, production-ready software aligned with insurance industry standards.",
+                "Ensuring code quality, performance optimization, and adherence to agile delivery practices in a fast-paced enterprise project."
+            ]
+        },
+        {
             company: "Ravini Technologies Pvt Ltd (HONC)",
             role: "Tech Lead",
             period: "May 2023 - May 2025",
